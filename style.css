@@ -1,0 +1,33 @@
+.fullname{
+    color:#ffffff;
+    background-color: #008000
+}
+h1{
+    color: #ff0000;
+    background-color: #7fffd4;
+}
+table,tr,th{
+    border: 2px solid #000000;
+}
+.name{
+    border-right: none;
+}
+.surname{
+    border-left:none;
+}
+.firstline{
+    background-color: purple;
+}
+table{
+    border-spacing: 0;
+}
+.image{
+    width: 250px;
+    height: 300px;
+    margin-top: 15px;
+}
+.video{
+    width:400px;
+    height: 300px;
+    margin-top: 15px;
+}
